@@ -141,13 +141,13 @@ hs_err_pid*
 replay_pid*
 
 ### react ###
-.DS_*
-logs
-**/*.backup.*
+**/.DS_*
+**/logs
+**/**.backup.*
 **/*.back.*
 
-node_modules
-bower_components
+**/node_modules
+**/bower_components
 
 *.sublime*
 
